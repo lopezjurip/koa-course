@@ -7,6 +7,6 @@
     "start": "node index.js"
   },
   "dependencies": {
-    "koa": "^2.0.1"
+    "koa": "^2.2.0"
   }
 }
