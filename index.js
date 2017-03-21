@@ -6,9 +6,8 @@ const app = new Koa();
 
 app.use(ctx => {
   ctx.body = {
-    message: 'Not Found',
+    message: 'Hello world',
   };
-  ctx.status = 404;
 });
 
 app.listen(3000);
