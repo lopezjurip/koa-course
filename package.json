@@ -8,7 +8,9 @@
     "dev": "nodemon --watch src src/index.js"
   },
   "dependencies": {
-    "koa": "^2.2.0"
+    "axios": "^0.15.3",
+    "koa": "^2.2.0",
+    "koa-logger": "^2.0.1"
   },
   "devDependencies": {
     "nodemon": "^1.11.0"
